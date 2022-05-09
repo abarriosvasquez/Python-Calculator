@@ -2,14 +2,14 @@
 
 Submitted by: **Auner Barrios Vasquez**
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
 * [X] User can **use math terms to find an answer**
-* [X] User can **successfully work this as a calculator **
+* [X] User can **successfully work this as a calculator**
 
 The following **optional** features are implemented:
 
